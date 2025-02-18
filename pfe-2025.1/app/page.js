@@ -1,5 +1,5 @@
 function Texto1() {
-  return <p>Um paragrafo de texto!</p>;
+  return <p>Um paragrafo de texto! e isso é um novo teste</p>;
 }
 
 export default function Home() {
@@ -14,3 +14,4 @@ export default function Home() {
     </div>
   );
 }
+
